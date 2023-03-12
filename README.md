@@ -90,7 +90,6 @@ Descriptions of the balanced accuracy scores and the precision and recall scores
 
 
 ## Summary
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
 #### None of the Oversampling methods are desirable in predicting credit risk
   * The Naive Random Oversampling model over-predicted high-risk loans. While the sensitivity is 70% for predicting high-risk, there were many "actually low-risk" caught up in the group as "predicted high-risk".
